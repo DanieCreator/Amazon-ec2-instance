@@ -74,7 +74,7 @@ I made sure to terminate all resources after completing the lab to avoid unexpec
 - Getting Amazon EC2 Instance Metadata
 - Terminating an Amazon EC2 Instance
 
-![ Lab environment](EC2)
+![ Lab environment](EC2.png)
 ### Covered topics
 - Compute
 - High Availablity
